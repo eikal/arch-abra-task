@@ -2,3 +2,6 @@
 *.db
 *.sqlite
 *.sqlite3
+implementation-roadmap.csv
+marketing.db
+mql_attribution_query.sql

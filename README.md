@@ -26,6 +26,6 @@ Validation was done by running practical checks, including:
 
 ## Note on Sample Data
 
-Per the delivery note for phase 4, and specifically for the SQL practical section (Part 5), a sample dataset was generated because the task context referenced sample data but it was not available in the workspace as a ready-to-run file.
+Per the SQL practical section (Part 5), a sample dataset was generated because the task context referenced sample data but it was not available.
 
 The generated file is `contact_history_sample.csv` and is used to test and validate `mql_attribution_query.sql`.
