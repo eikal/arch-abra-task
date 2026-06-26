@@ -1,0 +1,20 @@
+ContactId,EventId,EventTimestamp,EventDescription,EventName,TriggeredByEvent,EventType
+C001,1001,2026-01-03 09:00:00,Registered for Jan digital event,Digital Kickoff,Digital Event,Registration
+C001,1002,2026-01-05 10:00:00,Downloaded product brochure,Loan Brochure,Campaign,PDF Download
+C001,1003,2026-01-10 12:00:00,Attended webinar,SME Credit Webinar,Webinar,Attendance
+C001,1004,2026-01-12 08:30:00,Became MQL,MQL Jan,Campaign,MQL
+C001,1005,2026-01-15 11:00:00,Visited cost estimator page,Cost Estimator,Campaign,Estimator Visit
+C001,1006,2026-01-20 09:15:00,Handraise in webinar follow-up,Follow-up Handraise,Webinar,Handraise
+C001,1007,2026-01-20 09:15:00,Became MQL second time,MQL Jan Follow-up,Campaign,MQL
+C002,2001,2026-02-01 14:00:00,Attended physical roadshow,Roadshow TLV,Physical Event,Attendance
+C002,2002,2026-02-02 10:00:00,Downloaded pricing sheet,Pricing PDF,Campaign,PDF Download
+C002,2003,2026-02-03 09:00:00,Became MQL,MQL Feb,Campaign,MQL
+C002,2004,2026-02-03 09:00:00,Same time digital click,Same Time Click,Digital Event,Click
+C003,3001,2026-03-01 08:00:00,Became MQL with no prior activity,MQL Direct,Campaign,MQL
+C004,4001,2026-03-05 10:00:00,Registered webinar,Funding Webinar,Webinar,Registration
+C004,4002,2026-03-05 10:00:00,Visited estimator same timestamp,Estimator Visit,Campaign,Estimator Visit
+C004,4003,2026-03-06 09:00:00,Became MQL,MQL March,Campaign,MQL
+C005,5001,2026-03-10 08:00:00,Downloaded whitepaper,Whitepaper,Campaign,PDF Download
+C005,5002,2026-03-10 08:00:00,Attended webinar same timestamp,Partner Webinar,Webinar,Attendance
+C005,5003,2026-03-10 12:00:00,Became MQL,MQL Noon,Campaign,MQL
+C005,5004,2026-03-11 09:00:00,Attended physical event after MQL,Expo Visit,Physical Event,Attendance

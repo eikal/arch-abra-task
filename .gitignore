@@ -1,0 +1,4 @@
+.vscode/
+*.db
+*.sqlite
+*.sqlite3
